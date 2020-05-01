@@ -1,0 +1,72 @@
+* {
+	font-family: "Montserrat", sans-serif;
+}
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+.numberOf input {
+	height: 24px;
+	width: 80px;
+}
+.btn {
+	margin-top: 20px;
+	padding: 10px 30px;
+	border: 0;
+	outline: none;
+	background-color: #eee;
+}
+.btn:hover {
+	background-color: #ccc;
+}
+#step2 {
+	width: 100%;
+	display: none;
+}
+#step2 input {
+	outline: none;
+	margin: -0.5px;
+	width: 30px;
+	height: 30px;
+}
+.clearfix::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+#amount {
+	float: left;
+}
+#price {
+	margin-top: 35px;
+	margin-left: 40px;
+	float: left;
+}
+.ma {
+	background-color: #eee;
+}
+#step2next {
+	display: none;
+}
+#solutionAmount {
+	float: left;
+}
+#solutionPrice {
+	margin-top: 35px;
+	margin-left: 40px;
+	float: left;
+}
+#step3 input {
+	outline: none;
+	margin: -0.5px;
+	width: 30px;
+	height: 30px;
+}
+#step3 {
+	margin-top: 40px;
+	width: 100%;
+	display: none;
+}
+.activeSolution {
+	background-color: lightgreen;
+}

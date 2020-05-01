@@ -1,0 +1,11 @@
+{
+  "name": "northwest-corner-method-master",
+  "version": "1.0.0",
+  "description": "[description of the algorithm](https://www.linearprogramming.info/northwest-corner-method-transportation-algorithm-in-linear-programming/)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
